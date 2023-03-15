@@ -1,8 +1,8 @@
-PWD e:/MysteriousKnight/paper/university_paper/mechanical/latex
+PWD e:/MysteriousKnight/paper/university_paper/STAR-SLAM/latex
 INPUT e:/texlive/2022/texmf.cnf
 INPUT e:/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT e:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT e:/MysteriousKnight/paper/university_paper/mechanical/latex/reference.tex
+INPUT e:/MysteriousKnight/paper/university_paper/STAR-SLAM/latex/reference.tex
 OUTPUT reference.log
 INPUT e:/texlive/2022/texmf-dist/tex/latex/base/article.cls
 INPUT e:/texlive/2022/texmf-dist/tex/latex/base/article.cls
